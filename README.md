@@ -66,37 +66,37 @@
     <tr>
       <td align="center" width="140">
         <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/Destiny.jpg" width="120" /><br>
-        <b>Destiny</b>
-      </td>
-      <td align="center" width="140">
-        <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/final-fantasy-xiii.jpg" width="120" /><br>
-        <b>Final Fantasy XIII</b>
-      </td>
-      <td align="center" width="140">
-        <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/metaphor-refantazio.jpg" width="120" /><br>
-        <b>Metaphor:<br>ReFantazio</b>
+        <b>Minecraft</b>
       </td>
       <td align="center" width="140">
         <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/clair-obscur-expedition-33.jpg" width="120" /><br>
-        <b>Clair Obscur:<br>Expedition 33</b>
+        <b>Rocket League</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/final-fantasy-xiii.jpg" width="120" /><br>
+        <b>Dying Light</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/metaphor-refantazio.jpg" width="120" /><br>
+        <b>ARK: Survival Evolved</b>
       </td>
     </tr>
     <tr>
       <td align="center" width="140">
         <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/persona-3-reload.jpg" width="120" /><br>
-        <b>Persona 3 Reload</b>
+        <b>The Forest</b>
       </td>
       <td align="center" width="140">
         <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/nier-automata.jpg" width="120" /><br>
-        <b>NieR: Automata</b>
+        <b>Pokémon SoulSilver</b>
       </td>
       <td align="center" width="140">
         <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/pokemon-black-white.jpg" width="120" /><br>
-        <b>Pokémon<br>Black/White</b>
+        <b>The Legend of Zelda: Twilight Princess</b>
       </td>
       <td align="center" width="140">
         <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/osu.jpg" width="120" /><br>
-        <b>osu!</b>
+        <b>Super Mario Bros.Wii</b>
       </td>
     </tr>
   </table>
@@ -114,15 +114,15 @@
     <tr>
       <td align="center" width="140">
         <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/final-fantasy-xvi.jpg" width="120" /><br>
-        <b>Final Fantasy XVI</b>
+        <b>Grand Theft Auto V</b>
       </td>
       <td align="center" width="140">
         <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/gravity-rush.jpg" width="120" /><br>
-        <b>Gravity Rush</b>
+        <b>Roguebook</b>
       </td>
       <td align="center" width="140">
         <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/cod-black-ops-2.jpg" width="120" /><br>
-        <b>CoD:<br>Black Ops II</b>
+        <b>CoD:<br>Black Ops II - Multiplayer</b>
       </td>
       <td align="center" width="140">
         <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/rainbow-six-siege.jpg" width="120" /><br>
@@ -132,19 +132,19 @@
     <tr>
       <td align="center" width="140">
         <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/titanfall-2.jpg" width="120" /><br>
-        <b>Titanfall 2</b>
+        <b>DOOM</b>
       </td>
       <td align="center" width="140">
         <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/ghostrunner.jpg" width="120" /><br>
-        <b>Ghostrunner</b>
+        <b>Baldur's Gate 3</b>
       </td>
       <td align="center" width="140">
         <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/infamous-second-son.jpg" width="120" /><br>
-        <b>inFamous:<br>Second Son</b>
+        <b>The Farmer Was Replaced</b>
       </td>
        <td align="center" width="140">
         <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/journey.jpg" width="120" /><br>
-        <b>Journey</b>
+        <b>Diablo III</b>
       </td>
     </tr>
   </table>
@@ -160,4 +160,4 @@
 [![Website](https://img.shields.io/badge/-coldrock.games-black?style=flat-square&logo=google-chrome)](https://www.coldrock.games)
 
 
-<img src="https://komarev.com/ghpvc/?username=RobertSkokic&label=visits&color=FF4A4A&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=MaxLab2002&label=visits&color=FF4A4A&style=flat-square" alt="Profile Views" />
