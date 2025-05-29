@@ -69,7 +69,7 @@
         <b>Minecraft</b>
       </td>
       <td align="center" width="140">
-        <img src="https://github.com/MaxLab2002/MaxLab2002/blob/main/assets/favorite-games/Rocket_league.jpg" width="120" /><br>
+        <img src="https://github.com/MaxLab2002/MaxLab2002/blob/main/assets/favorite-games/Rocket_League.jpg" width="120" /><br>
         <b>Rocket League</b>
       </td>
       <td align="center" width="140">
@@ -125,7 +125,7 @@
         <b>CoD:<br>Black Ops II - Multiplayer</b>
       </td>
       <td align="center" width="140">
-        <img src="https://github.com/MaxLab2002/MaxLab2002/blob/main/assets/favorite-games/Rainbow_Six_Siege.jpg" width="120" /><br>
+        <img src="https://github.com/MaxLab2002/MaxLab2002/blob/main/assets/favorite-games/Rainbow_Six_Siege.png" width="120" /><br>
         <b>Rainbow Six Siege</b>
       </td>
     </tr>
