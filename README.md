@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/banner.png" alt="Coldrock Banner" width="100%" />
+  <img src="https://github.com/MaxLab2002/MaxLab2002/blob/main/assets/banner.png" alt="Coldrock Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Max – aka Hawk 👋</h1>
@@ -65,37 +65,37 @@
   <table>
     <tr>
       <td align="center" width="140">
-        <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/Destiny.jpg" width="120" /><br>
+        <img src="https://github.com/MaxLab2002/MaxLab2002/blob/main/assets/favorite-games/Minecraft.png" width="120" /><br>
         <b>Minecraft</b>
       </td>
       <td align="center" width="140">
-        <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/clair-obscur-expedition-33.jpg" width="120" /><br>
+        <img src="https://github.com/MaxLab2002/MaxLab2002/blob/main/assets/favorite-games/Rocket_league.jpg" width="120" /><br>
         <b>Rocket League</b>
       </td>
       <td align="center" width="140">
-        <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/final-fantasy-xiii.jpg" width="120" /><br>
+        <img src="https://github.com/MaxLab2002/MaxLab2002/blob/main/assets/favorite-games/Dying_Light.png" width="120" /><br>
         <b>Dying Light</b>
       </td>
       <td align="center" width="140">
-        <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/metaphor-refantazio.jpg" width="120" /><br>
+        <img src="https://github.com/MaxLab2002/MaxLab2002/blob/main/assets/favorite-games/Ark_Survival_Evolved.png" width="120" /><br>
         <b>ARK: Survival Evolved</b>
       </td>
     </tr>
     <tr>
       <td align="center" width="140">
-        <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/persona-3-reload.jpg" width="120" /><br>
+        <img src="https://github.com/MaxLab2002/MaxLab2002/blob/main/assets/favorite-games/The_Forest.png" width="120" /><br>
         <b>The Forest</b>
       </td>
       <td align="center" width="140">
-        <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/nier-automata.jpg" width="120" /><br>
+        <img src="https://github.com/MaxLab2002/MaxLab2002/blob/main/assets/favorite-games/Pokemon_SoulSilver.jpg" width="120" /><br>
         <b>Pokémon SoulSilver</b>
       </td>
       <td align="center" width="140">
-        <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/pokemon-black-white.jpg" width="120" /><br>
+        <img src="https://github.com/MaxLab2002/MaxLab2002/blob/main/assets/favorite-games/The_Legend_of_Zelda_Twilight_Princess.jpg" width="120" /><br>
         <b>The Legend of Zelda: Twilight Princess</b>
       </td>
       <td align="center" width="140">
-        <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/osu.jpg" width="120" /><br>
+        <img src="https://github.com/MaxLab2002/MaxLab2002/blob/main/assets/favorite-games/Super_Mario_Bros.Wii.jpg" width="120" /><br>
         <b>Super Mario Bros.Wii</b>
       </td>
     </tr>
@@ -113,37 +113,37 @@
   <table>
     <tr>
       <td align="center" width="140">
-        <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/final-fantasy-xvi.jpg" width="120" /><br>
+        <img src="https://github.com/MaxLab2002/MaxLab2002/blob/main/assets/favorite-games/Grand_Theft_Auto_V.jpg" width="120" /><br>
         <b>Grand Theft Auto V</b>
       </td>
       <td align="center" width="140">
-        <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/gravity-rush.jpg" width="120" /><br>
+        <img src="https://github.com/MaxLab2002/MaxLab2002/blob/main/assets/favorite-games/Roguebook.png" width="120" /><br>
         <b>Roguebook</b>
       </td>
       <td align="center" width="140">
-        <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/cod-black-ops-2.jpg" width="120" /><br>
+        <img src="https://github.com/MaxLab2002/MaxLab2002/blob/main/assets/favorite-games/CoD_Black_Ops_II.png" width="120" /><br>
         <b>CoD:<br>Black Ops II - Multiplayer</b>
       </td>
       <td align="center" width="140">
-        <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/rainbow-six-siege.jpg" width="120" /><br>
+        <img src="https://github.com/MaxLab2002/MaxLab2002/blob/main/assets/favorite-games/Rainbow_Six_Siege.jpg" width="120" /><br>
         <b>Rainbow Six Siege</b>
       </td>
     </tr>
     <tr>
       <td align="center" width="140">
-        <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/titanfall-2.jpg" width="120" /><br>
+        <img src="https://github.com/MaxLab2002/MaxLab2002/blob/main/assets/favorite-games/Doom.jpg" width="120" /><br>
         <b>DOOM</b>
       </td>
       <td align="center" width="140">
-        <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/ghostrunner.jpg" width="120" /><br>
+        <img src="https://github.com/MaxLab2002/MaxLab2002/blob/main/assets/favorite-games/Baldurs_Gate_III.png" width="120" /><br>
         <b>Baldur's Gate 3</b>
       </td>
       <td align="center" width="140">
-        <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/infamous-second-son.jpg" width="120" /><br>
+        <img src="https://github.com/MaxLab2002/MaxLab2002/blob/main/assets/favorite-games/The_Farmer_Was_Replaced.jpg" width="120" /><br>
         <b>The Farmer Was Replaced</b>
       </td>
        <td align="center" width="140">
-        <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/favorite-games/journey.jpg" width="120" /><br>
+        <img src="https://github.com/MaxLab2002/MaxLab2002/blob/main/assets/favorite-games/Diablo_III.png" width="120" /><br>
         <b>Diablo III</b>
       </td>
     </tr>
