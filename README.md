@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Max – aka Hawk 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=0&color=FF4A4A&center=true&vCenter=true&width=435&lines=Developer+University Student+Dreamer.;Co-Founder+@+coldrock.games;HAVE+FUN!+MAKE+GAMES!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=0&color=FF4A4A&center=true&vCenter=true&width=435&lines=Developer.+University Student.+Dreamer.;Co-Founder+@+coldrock.games;HAVE+FUN!+MAKE+GAMES!" alt="Typing Animation" />
 </p>
 
 ---
